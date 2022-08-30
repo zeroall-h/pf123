@@ -1,0 +1,36 @@
+@charset "utf-8";
+
+.block{
+    display: inline;
+}
+.container{
+    background-size: 10%;
+}
+.intro {
+    padding: 40px 50px;
+}
+.contentWrap{
+  padding: 20px 120px;
+}
+.boxWrap1 {
+    width: 45%;
+    height: 300px;
+    margin-bottom: 200px;
+  }
+  .boxWrap2 {
+    width: 45%;
+    height: 300px;
+    float: right;
+  
+  }
+  .boxWrap3 {
+    clear: both;
+    width: 45%;
+    height: 300px;
+    margin-top: 700px;
+  }
+  .moving-circle{
+    margin-top: 100px;
+    margin-left: 120px;
+  }
+  
